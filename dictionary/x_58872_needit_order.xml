@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="469d9e19474d3610c5f064f2e16d435e" label="order" max_length="40" name="x_58872_needit_order" type="collection">
+        <element label="Order ID" max_length="40" name="order_id" type="string"/>
+    </element>
+</database>
